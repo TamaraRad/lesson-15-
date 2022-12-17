@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+#myForm {
+    width: 300px;
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+.row {
+    margin-bottom: 10px;
+}
+
+table, 
+th, 
+td { 
+    border: 1 px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td{
+    padding: 10px;
+}
